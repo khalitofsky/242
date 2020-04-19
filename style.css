@@ -12,8 +12,7 @@ p{
 }
 /*для мобильников*/
  @media screen and (max-width: 768px) {
- 	div{ font-size: 26px;
-line-height: 26pt;
+ 	div{ font-size: 22px;
  	}
  }
  /*для больших*/
