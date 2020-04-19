@@ -1,12 +1,11 @@
-
+/*
 body{
 	background: url(kotik.jpg) no-repeat;
-	-moz-background-size: 100%; /* Firefox 3.6+ */
-    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
-    -o-background-size: 100%; /* Opera 9.6+ */
-    background-size: 100%; /* Современные браузеры */
-}
-
+	-moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%;
+}*/
 div{
 	border-radius: 15px; 
 	background-color: rgba(256, 256, 256, 0.6);
@@ -15,10 +14,10 @@ div{
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
-a{
-    color: black; /* Цвет ссылок */
+/*a{
+    color: black;
     text-decoration: underline;
-   }
+   }*/
 
 p{
 	position: static;
