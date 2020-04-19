@@ -1,10 +1,10 @@
-
 a{
+    color: black; /* Цвет ссылок */
+    text-decoration: underline;
+   }
 
-
-}
 body{
-	background-image: url(kotik.jpg);
+	background-image: url(kotik.jpg) no-repeat;
 }
 div{
 	border-radius: 15px; 
