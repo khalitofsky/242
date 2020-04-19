@@ -1,11 +1,18 @@
 
 a{
-	line-height: 10pt;
 
+
+}
+body{
+	background-image: url(kotik.jpg);
+}
+div{
+	border-radius: 15px; 
+	background-color: rgba(0, 0, 0, 0.6);
 }
 p{
 	position: static;
-
+	line-height: 10pt;
 }
 .den{
 	font-weight:700;
